@@ -1,9 +1,9 @@
 # Patient-Class
 Python script for adding, searching, and editing the info of a patient by reading and using a populated .txt file.
 <br />
-**Output file provided**
+(Output file provided)
 <br />
-<br />
+
 (NOTE: This script is made only for Patient option in the Menu)
 
 Features/Functions:
