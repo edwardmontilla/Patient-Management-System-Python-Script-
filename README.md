@@ -17,4 +17,3 @@ Features/Functions:
 - Clone or Download source code
 - Open using **Visual Studo Code**
 - Run the script
-- Enjoy!
